@@ -1,0 +1,46 @@
+h1{
+	text-align: center;
+	color: #A9B7C0;
+	margin: 10px;
+}
+
+div{
+	.textWithblurredbg{
+		display: inline-block;
+		margin: 4px;
+		position: relative;
+
+   
+	}
+	.textWithblurredbg img{
+		width: 100%;
+		height: 100%;
+		border-radius: 4px;
+		transition: .3s;
+	}
+	.textWithblurredbg:hover img{
+		filter: blur(2px);
+	}
+	.text
+
+
+	.textWithblurredbg; not(img){
+		position: absolute;
+		top: 30%;
+		z-index: 1;
+		color: #fff;
+		text-align: center;
+		width: 100%;
+	}
+
+	.textWithblurredbg h3{
+		top: 50%;
+
+	}
+
+</style>
+
+}
+
+
+
